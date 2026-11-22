@@ -1,3 +1,4 @@
+
 # 🏦 Institutional PO3 Pro: Algorithmic AMD & Smart Money Execution Engine
 **Strict Non-Repainting Power of 3 Architecture with 15m A+M Filtering, 5m IFVG Auto-Entries & Live HTF Dashboards (Pine Script v6)**
 
@@ -40,7 +41,7 @@ Constantly switching between `1W`, `1D`, `4H`, `1H`, `15m`, and `5m` charts duri
   3. The `5m` chart prints a confirmed **IFVG** → The engine automatically flags it as a **`★ STRONG`** institutional setup and executes the trade.
 
 ---
-
+<img width="2752" height="1536" alt="Gemini_Generated_Image_qcubgjqcubgjqcub" src="https://github.com/user-attachments/assets/bab71c3a-98ae-4917-afd3-84ae7611f7c7" />
 ### 3. Automated Trade Execution, Noise Filtering & Dual Live Dashboards
 
 - **100% Non-Repainting (Candle-Close Only):** Every `15m` sweep, `5m` IFVG, and HTF zone update executes strictly on confirmed candle closes (`barstate.isconfirmed`).
