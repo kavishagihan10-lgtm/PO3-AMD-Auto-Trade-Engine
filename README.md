@@ -42,7 +42,7 @@ Constantly switching between `1W`, `1D`, `4H`, `1H`, `15m`, and `5m` charts duri
 
 ---
 <img width="2752" height="1536" alt="Gemini_Generated_Image_qcubgjqcubgjqcub" src="https://github.com/user-attachments/assets/bab71c3a-98ae-4917-afd3-84ae7611f7c7" />
-### 3. Automated Trade Execution, Noise Filtering & Dual Live Dashboards
+3. Automated Trade Execution, Noise Filtering & Dual Live Dashboards
 
 - **100% Non-Repainting (Candle-Close Only):** Every `15m` sweep, `5m` IFVG, and HTF zone update executes strictly on confirmed candle closes (`barstate.isconfirmed`).
 - **Complete Auto-Trade Mapping:** Every valid signal automatically plots and tracks:
